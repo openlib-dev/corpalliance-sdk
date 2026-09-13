@@ -1,0 +1,12 @@
+# Environment files carrying real credentials.
+.env
+
+# Build and test artefacts.
+*.test
+*.out
+coverage.*
+
+# Editor and OS noise.
+.DS_Store
+.idea/
+.vscode/
